@@ -6,3 +6,7 @@ pip3 install pandas
 
 ## Dataset (Sentiment140 dataset with 1.6 million tweets)
 kaggle.com/datasets/kazanova/sentiment140
+
+# Demo
+![let’s explore our dataset](./demo/explore.png)
+![Visualise the Dataset](<./demo/wordcloud.png>)
